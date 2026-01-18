@@ -1,3 +1,3 @@
 type,flight,airline,from,to,scheduled,estimated,status,terminal,gate,belt
-arrival,PAT323,US ARMY,Apiay (SKAP),,2026-01-18T17:00:00-05:00,2026-01-18T17:13:00-05:00,Departed,T1,,
-departure,PAT323,US ARMY,,Tolemaida (SKTI),2026-01-18T16:50:00-05:00,2026-01-18T17:30:00-05:00,On Time,T1,,
+arrival,PAT323,US ARMY,Apiay (SKAP),,2026-01-18T17:00:00-05:00,2026-01-18T17:13:00-05:00,Landed,T1,,
+departure,PAT323,US ARMY,,Tolemaida (SKTI),2026-01-18T16:50:00-05:00,2026-01-18T17:10:00-05:00,On Time,T1,,
