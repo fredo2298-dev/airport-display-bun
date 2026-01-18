@@ -1,0 +1,5 @@
+type,flight,airline,from,to,scheduled,estimated,status,terminal,gate,belt
+arrival,AV8123,Avianca,Bogotá (BOG),,2026-01-18T10:20:00-05:00,2026-01-18T10:30:00-05:00,Delayed,T1,,1
+arrival,LA4012,LATAM,Cali (CLO),,2026-01-18T11:00:00-05:00,2026-01-18T11:00:00-05:00,On Time,T1,,2
+departure,AV8124,Avianca,,Bogotá (BOG),2026-01-18T11:45:00-05:00,2026-01-18T11:55:00-05:00,Boarding,T1,3,
+departure,VE219,Viva Air,,Medellín (MDE),2026-01-18T13:10:00-05:00,2026-01-18T13:10:00-05:00,On Time,T1,2,
