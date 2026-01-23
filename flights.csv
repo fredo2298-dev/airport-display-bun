@@ -1,6 +1,7 @@
 type,flight,airline,from,to,scheduled,estimated,status,terminal,gate,belt
-Arrival,NSE8725,SATENA,BOGOTÁ (BOG),,2026-01-23T13:12:00-05:00,,On time,T1,1,1
+Arrival,NSE8725,SATENA,BOGOTÁ (BOG),,2026-01-23T13:12:00-05:00,2026-01-23T13:31:00-05:00,Departed,T1,1,1
 Departure,NSE8726,SATENA,,BOGOTÁ (BOG),2026-01-23T14:33:00-05:00,,On time,T1,1,1
+
 
 
 
