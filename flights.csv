@@ -1,5 +1,6 @@
 type,flight,airline,from,to,scheduled,estimated,status,terminal,gate,belt
-Arrival,HK4679, STS HOSPITAL,CALI (CLO),,2026-01-25T10:12:00-05:00,2026-01-25T10:50:00-05:00,On time,T1,1,1
+Arrival,NSE8725,SATENA,BOGOTÁ (BOG),,2026-01-27T08:38:00-05:00,,On time,T1,1,1
+Departure,NSE8726,SATENA,,BOGOTÁ (BOG),2026-01-27T09:53:00-05:00,,On time,T1,1,1
 
 
 
