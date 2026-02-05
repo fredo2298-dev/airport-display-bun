@@ -1,6 +1,8 @@
 type,flight,airline,from,to,scheduled,estimated,status,terminal,gate,belt
-Arrival,NSE8725,SATENA,BOGOTÁ (BOG),,2026-01-27T08:38:00-05:00,2026-01-27T08:40:00-05:00,Departed,T1,1,1
-Departure,NSE8726,SATENA,,BOGOTÁ (BOG),2026-01-27T09:53:00-05:00,2026-01-27T09:37:00-05:00,On time,T1,1,1
+Arrival,HK1943G,T/GO,CALI (SKCL),CALI (SKCL),2026-01-27T10:52:00-05:00,,Departed,T1,1,1
+Arrival,NSE8725,SATENA,BOGOTÁ (BOG),,2026-01-27T14:56:00-05:00,,On time,T1,1,1
+Departure,NSE8726,SATENA,,BOGOTÁ (BOG),2026-01-27T15:58:00-05:00,,On time,T1,1,1
+
 
 
 
